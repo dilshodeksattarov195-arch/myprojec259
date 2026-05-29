@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachecelete",
+        "uuid": 1723127,
+        "checksum": "py5yxt"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
